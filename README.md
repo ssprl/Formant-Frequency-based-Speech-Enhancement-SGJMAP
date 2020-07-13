@@ -21,7 +21,7 @@ The codes are licensed under MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
-G. S. Bhat, C. K. A. Reddy, N. Shankar and I. M. S. Panahi, "Smartphone based real-time super Gaussian single microphone Speech Enhancement to improve intelligibility for hearing aid users using formant information," 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, 2018, pp. 5503-5506, doi: 10.1109/EMBC.2018.8513674.
+- G. S. Bhat, C. K. A. Reddy, N. Shankar and I. M. S. Panahi, "Smartphone based real-time super Gaussian single microphone Speech Enhancement to improve intelligibility for hearing aid users using formant information," 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, 2018, pp. 5503-5506, doi: 10.1109/EMBC.2018.8513674.
 
 ## Disclaimer
 This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National
