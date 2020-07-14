@@ -1,5 +1,3 @@
-# Formant-Frequency-based-Speech-Enhancement-SGJMAP
-
 # Smartphone based real time Super Gaussian Speech enhancement to improve intelligibility for hearing aid users using formant information.
 
 ## Overview
@@ -17,7 +15,7 @@ You can find the paper for this GitHub repository : https://ieeexplore.ieee.org/
 - iPhone 7 running iOS 10.3
 
 ## License and Citation
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 For any utilization of the code content of this repository, one of the following books needs to get cited by the user:
 
