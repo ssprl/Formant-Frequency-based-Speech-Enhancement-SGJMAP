@@ -24,6 +24,4 @@ For any utilization of the code content of this repository, one of the following
 - G. S. Bhat, C. K. A. Reddy, N. Shankar and I. M. S. Panahi, "Smartphone based real-time super Gaussian single microphone Speech Enhancement to improve intelligibility for hearing aid users using formant information," 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Honolulu, HI, 2018, pp. 5503-5506, doi: 10.1109/EMBC.2018.8513674.
 
 ## Disclaimer
-This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National
-
-Institutes of Health (NIH) under Award 1R01DC015430-02. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
+This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National Institutes of Health (NIH) under Award 1R01DC015430-02. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
